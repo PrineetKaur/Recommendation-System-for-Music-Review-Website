@@ -1,4 +1,4 @@
-# Recommendation System for Last FM music review website
+# Recommendation System for Last FM music website
 Project in Python
 
 
